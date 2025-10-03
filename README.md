@@ -31,8 +31,3 @@ This tutorial covers a comprehensive range of machine learning algorithms includ
 ## 📄 License
 
 This is an educational resource generated with LLM assistance.
-
----
-
-Anastacio Gianareas Palm (tacho87)
-Devpath.io
